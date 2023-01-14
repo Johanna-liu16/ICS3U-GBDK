@@ -317,7 +317,7 @@ _HRAM12                00000000    00000003 =           3. bytes (ABS,CON)
 Files Linked                              [ module(s) ]
 
 /opt/gbdk/lib/small/asxxxx/gb/crt0.o      [ Runtime ]
-/tmp/lcc250840.o                          [ main ]
+/tmp/lcc306730.o                          [ main ]
 
 
 Libraries Linked                          [ object file ]
