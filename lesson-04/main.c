@@ -12,6 +12,9 @@
 #include "Background.c"
 
 void main(){
+    // user input
+    uint8_t joypadData;
+
     // load spritesheet referenced as #0
     // load 16 sprites from it
     // from variable SpaceAliens
